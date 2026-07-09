@@ -1998,7 +1998,8 @@
     "name": "Support Monzo Banking Service",
     "history": [
       "CoinMarketCap_Official25",
-      "OfficialMonzoSupportBanking2"
+      "OfficialMonzoSupportBanking2",
+      "OfficialMonzoSupportBank2"
     ]
   },
   "8836918352": {
@@ -4352,6 +4353,14 @@
   },
   "8907066026": {
     "name": "zamtzy. ん",
+    "history": []
+  },
+  "8728798273": {
+    "name": "Revolut_Official_Supportg32",
+    "history": []
+  },
+  "7502016944": {
+    "name": "nanananana",
     "history": []
   }
 }
