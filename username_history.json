@@ -196,6 +196,10 @@
       "Official_CoinMarketCcap_Service0"
     ]
   },
+  "1037698902": {
+    "name": "𝚘𝟼𝟶𝟻 || Kizzv",
+    "history": []
+  },
   "1045909749": {
     "name": "Support Monzo Banking Service",
     "history": [
@@ -2362,9 +2366,10 @@
     ]
   },
   "8576389005": {
-    "name": "Official CoinMarketCap",
+    "name": "Support CoinMarketCap Service",
     "history": [
-      "Offcial_CoinMarketCap_08"
+      "Offcial_CoinMarketCap_08",
+      "CoinMarketCap_Official_Service36"
     ]
   },
   "4403493534": {
@@ -7783,5 +7788,9 @@
     "history": [
       "Foryoupanz"
     ]
+  },
+  "7712574427": {
+    "name": "#𝘝𝘰𝘳𝘻𝘢 𝘎𝘦𝘵𝘚𝘶𝘡𝘰",
+    "history": []
   }
 }
