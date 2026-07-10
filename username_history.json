@@ -1157,7 +1157,9 @@
   },
   "1995160858": {
     "name": "Support CoinMarketCap Service",
-    "history": []
+    "history": [
+      "CoinMarketCap_Official51"
+    ]
   },
   "2005783081": {
     "name": "",
