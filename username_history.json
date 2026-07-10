@@ -1269,7 +1269,9 @@
   },
   "2031838261": {
     "name": "Support CoinMarketCap Service",
-    "history": []
+    "history": [
+      "CoinMarketCap_Official_Service81"
+    ]
   },
   "2031873077": {
     "name": "𝒗𝒂𝒓𝒐𝒐 𝒇𝒐𝒓𝒕𝒘𝒚𝒏𝒕𝒚?",
@@ -7073,5 +7075,13 @@
     "history": [
       "ISNOTTERTAMZY"
     ]
+  },
+  "8082500114": {
+    "name": "𝐄𝐕𝐑 #𝒇𝒐𝒓𝒍𝒆𝒙𝒔𝒕𝒂𝒓",
+    "history": []
+  },
+  "8594370719": {
+    "name": "Akun telah terhapus",
+    "history": []
   }
 }
