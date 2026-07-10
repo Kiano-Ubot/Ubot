@@ -3763,7 +3763,9 @@
   },
   "8869289628": {
     "name": "CoinMarketCap Official Support",
-    "history": []
+    "history": [
+      "CoinMarketCapPricee"
+    ]
   },
   "8068056176": {
     "name": "Reyyss",
