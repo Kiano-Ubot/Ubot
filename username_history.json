@@ -86,6 +86,10 @@
       "ProtectronBot"
     ]
   },
+  "748501396": {
+    "name": "afterRL",
+    "history": []
+  },
   "806749970": {
     "name": "⌗ ─ χ𝑭𝒂𝒏𝒛𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 ─ ⌗",
     "history": [
@@ -3502,8 +3506,10 @@
     "history": []
   },
   "8672699796": {
-    "name": "Roki",
-    "history": []
+    "name": "CoinMarketCap HelpDesk",
+    "history": [
+      "Official_CoinMarketCap_Desk21"
+    ]
   },
   "7164140105": {
     "name": "Dika",
@@ -5955,5 +5961,9 @@
     "history": [
       "PrinceXVogue"
     ]
+  },
+  "7910921313": {
+    "name": "Fantzy #db",
+    "history": []
   }
 }
